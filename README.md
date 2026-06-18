@@ -1,4 +1,4 @@
-# Hey, I'm Matt 👋
+# Hey, I'm Matthew 👋
 
 **Full-Stack Software Engineer** based in Ohio, building scalable apps, APIs, and cloud-native systems.
 
@@ -16,12 +16,6 @@ PostgreSQL • MSSQL • MongoDB • Snowflake • Docker • Kubernetes • AWS
 - 🏢 Software Developer II at **Emprise Technologies**
 - 🎵 Building [Uncle Iroh Bot](https://github.com/matthewszych/iroh-bot) — a Discord bot with music, leveling & AI
 - 📺 Building [WatchHub](https://watchhub.watch) — watch YouTube together in sync
-
-### Stats
-
-![Matthew's GitHub stats](https://github-readme-stats.vercel.app/api?username=matthewszych&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthewszych&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
 
 ### Connect
 
